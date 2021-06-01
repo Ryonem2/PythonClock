@@ -107,7 +107,7 @@ mailserver.ehlo()
 mailserver.login(gmail_user, gmail_pwd)
 print("login Secessful!!")
 print("Alarm was setted!")
-msg = 'Hey Time to work now get back to work'
+msg = 'TEXT YOU WANNA SEND'
 mailserver.sendmail(gmail_user, to, msg)
 print ('Email was sent!!')
 mailserver.quit()
