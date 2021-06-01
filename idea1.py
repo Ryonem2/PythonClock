@@ -11,7 +11,7 @@ hr = int(input("Hr => "))
 mn = int(input("Min => "))
 sc = int(input("Sec => "))
 to = input(str("EnterEmailYouWannaSend : "))
-gmail_user = 'worknarair6@gmail.com'
+gmail_user = 'YOUR-EMAIL'
 gmail_pwd = input(str("EnterYourPassword : "))
 progress = 3
 starttime = time.time()
