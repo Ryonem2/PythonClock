@@ -3,11 +3,11 @@
 #Module Required
 You need to install module by :
 ```sh
-pip install [Module Require below]
+pip install smtplib
 ```
--smtplib
--win10toast 
-
+```sh
+pip install win10toast 
+```
 #How to use
 First u need to fix in py flie at yourgmail
 then
