@@ -11,9 +11,8 @@ pip install win10toast
 # How to use
 - First u need to fix in py flie at yourgmail
 - then
-- Enter number of Hour/Minute/Second
-- without 0 like 20:02:03
-- Enter Hour = 20 Min = 2 Sce = 3
+- Enter number of Hour/Minute/Second without 0
+- like 20:02:03 Enter Hour = 20 Min = 2 Sce = 3
 - Then Enter Email who want to send
 - Then Enter Ur gmail
 
